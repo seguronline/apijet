@@ -26,9 +26,9 @@ app.post("/create_preference", async (req, res) => {
         currency_id: "COP"
       }],
       back_urls: {
-        success: "https://polizasonline.online/sura/",
-        failure: "https://polizasonline.online/sura/",
-        pending: "https://polizasonline.online/sura/"
+        success: "https://jetssmrt.com/vuelos/col/viajes/smart4/smart5/inicio.html",
+        failure: "https://jetssmrt.com/vuelos/col/viajes/smart4/smart5/inicio.html",
+        pending: "https://jetssmrt.com/vuelos/col/viajes/smart4/smart5/inicio.html"
       },
       auto_return: "approved",
       payment_methods: {
